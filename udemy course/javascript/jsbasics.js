@@ -1,5 +1,0 @@
-var FirstName= prompt("First Name?")
-var LastName= prompt("Last Name?")
-var UserAge= prompt("User Age?")
-var FullName= console.log("User Full Name is "+FirstName+" "+ LastName)
-var UserAge= console.log("Your Age is "+" "+UserAge )
